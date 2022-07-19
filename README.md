@@ -19,5 +19,7 @@ You can also send to multiple gmail accounts by giving the email key an array va
 }
 ```
 
+
 ### NB:
 The email account(s) must be gmail account(s). This app is not yet confgured to work with other email providers.
+![Screenshot_20220719-041509](https://user-images.githubusercontent.com/27390903/179707838-f042fe82-1b08-491d-8924-74b844ffced9.png)
